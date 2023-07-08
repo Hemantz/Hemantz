@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻Hemant Bhardwaj </h1>
 ### Hi there 👋, my name is Hemant Bhardwaj
 ####   Senior Software developer 
- I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally take coding classes.
+ I am a passionate, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally take coding classes.
 
 Skills: JAVA/ SPRINGBOOT/ MYSQL/ JS / REACT / JS / HTML / CSS
 
