@@ -30,8 +30,7 @@ Skills: JAVA/ SPRINGBOOT/ MYSQL/ JS / REACT / JS / HTML / CSS
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
 <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg
-"/>
+      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"/>
   </a>
 
 <a href="https://" target="_blank" rel="noreferrer">
